@@ -8,3 +8,4 @@ and send emails to up to 1,000 accounts simultaneously, ensuring scalability and
 email entries by 20%, thereby enhancing data integrity and system accuracy.
 • Revamped email delivery system using automation for validation checks and error resolution; achieved a
 notable decrease in average processing duration from five minutes to two minutes per batch of emails sent
+<!-- Failed to upload "Mass mail- Made with Clipchamp.mp4" -->
